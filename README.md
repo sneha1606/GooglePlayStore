@@ -9,6 +9,7 @@ Google Play Store is one such avenue on the internet.
 
 *About the dataset:* The dataset is chosen from Kaggle. It is the web scraped data of 10k Play Store apps for analyzing the Android market. It consists of in total of 10841 rows and 13 columns.
 
+
 *The variables in the dataset:*
 1) App (Name)
 2) Category (App)
@@ -24,6 +25,7 @@ Google Play Store is one such avenue on the internet.
 12) Current Version (App)
 13) Android Version (Support)
 
+
 *Packages Used:*
 1) Pandas
 2) Numpy
@@ -34,6 +36,7 @@ Google Play Store is one such avenue on the internet.
 7) XGBoost
 8) CatBoost
 
+
 *Models Applied*
 1) Logistic Regression
 2) Decision Tree
@@ -41,6 +44,7 @@ Google Play Store is one such avenue on the internet.
 4) Naive Bayes
 
 Note: Grid Search and Boosting techniques are also applied
+
 
 *Conclusions*
 1. We have applied several machine learning models on the google play store review dataset
