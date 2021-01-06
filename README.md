@@ -36,6 +36,13 @@ Google Play Store is one such avenue on the internet.
 7) XGBoost
 8) CatBoost
 
+*Exploratory Data Analysis and Data Visualisation:*
+
+Number of apps available in each category:
+![](https://github.com/sneha1606/GooglePlayStore/blob/main/Visualisation/Number%20of%20Apps%20in%20Each%20Category.PNG)
+
+Ratings among the apps:
+![](https://github.com/sneha1606/GooglePlayStore/blob/main/Visualisation/Rating%20among%20various%20apps.PNG)
 
 *Models Applied*
 1) Logistic Regression
