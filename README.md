@@ -9,6 +9,7 @@ Google Play Store is one such avenue on the internet.
 
 *About the dataset:* The dataset is chosen from Kaggle. It is the web scraped data of 10k Play Store apps for analyzing the Android market. It consists of in total of 10841 rows and 13 columns.
 
+*Tool Used for Analysis:* - Python(Jupyter Notebook)
 
 *The variables in the dataset:*
 1) App (Name)
@@ -43,6 +44,12 @@ Number of apps available in each category:
 
 Ratings among the apps:
 ![](https://github.com/sneha1606/GooglePlayStore/blob/main/Visualisation/Rating%20among%20various%20apps.PNG)
+
+Scatter Plot between Ratings and Reviews/Installs:
+![](https://github.com/sneha1606/GooglePlayStore/blob/main/Visualisation/Image3.PNG)
+
+Scatter Plot between Ratings and Reviews/Installs:
+![](https://github.com/sneha1606/GooglePlayStore/blob/main/Visualisation/Image3.PNG)
 
 *Models Applied*
 1) Logistic Regression
