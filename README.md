@@ -48,8 +48,8 @@ Ratings among the apps:
 Scatter Plot between Ratings and Reviews/Installs:
 ![](https://github.com/sneha1606/GooglePlayStore/blob/main/Visualisation/Image3.PNG)
 
-Scatter Plot between Ratings and Reviews/Installs:
-![](https://github.com/sneha1606/GooglePlayStore/blob/main/Visualisation/Image3.PNG)
+HeatMaps of all the variables:
+![](https://github.com/sneha1606/GooglePlayStore/blob/main/Visualisation/Heatmap.PNG)
 
 *Models Applied*
 1) Logistic Regression
