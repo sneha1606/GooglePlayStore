@@ -66,5 +66,4 @@ Note: Grid Search and Boosting techniques are also applied
 Hence it can be said that family apps are highly prefered
 3. After applying various models to the available dataset, we can see that random forest model with various parameters changes has given the best accuracy i.e. 78.92%~79% without overfitting the model (like in the case of decision tree).
 
-![*Kaggle Link: *](https://www.kaggle.com/sneha1606/google-playstore-review-ml)
-https://www.kaggle.com/sneha1606/google-playstore-review-ml
+*Kaggle Link:* https://www.kaggle.com/sneha1606/google-playstore-review-ml
