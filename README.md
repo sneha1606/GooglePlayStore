@@ -10,6 +10,7 @@ Google Play Store is one such avenue on the internet.
 *About the dataset:* The dataset is chosen from Kaggle. It is the web scraped data of 10k Play Store apps for analyzing the Android market. It consists of in total of 10841 rows and 13 columns.
 
 *Tool Used for Analysis:* - Python(Jupyter Notebook)
+*Tool Used for Data Mining:* - Hadoop - HQL and Pig Latin
 
 *The variables in the dataset:*
 1) App (Name)
