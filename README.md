@@ -1,4 +1,4 @@
-# Google Play Store App Review
+# Google Play Store Analysis
 
 *Introduction:*
 
@@ -37,6 +37,21 @@ Google Play Store is one such avenue on the internet.
 6) Seaborn
 7) XGBoost
 8) CatBoost
+
+*Questions used to generate queries for Pig Latin and Hive Query Language:*
+1) Find out the different app categories and app types.
+2) What type of applications are available more on the play store?
+3) What are the top 5 paid applications on the play store.
+4) How many free applications have installs more than 10,00,000?
+5) which category of applications are highly paid? 
+6) What are the average ratings of the applications available on google play store? Also find the average rating category wise? 
+7.a) Top 5 apps having highest number of reviews?
+7.b) Top 5 apps having large size?
+8) How many applications are available for different content ratings?
+9) Total different genre types of apps present in playstore?
+10) Top 15 categories of apps installed by the user
+11) Most popular apps by genre on google play store
+
 
 *Exploratory Data Analysis and Data Visualisation:*
 
